@@ -1,10 +1,21 @@
 # NLP-Project-Proposal
 
-#Feelings About Car Brands
+#Feelings About The Movies
 
 #Existing Technologies
-http://ceur-ws.org/Vol-938/ontobras-most2012_paper11.pdf The project will consider people’s comments about the car brands on the Internet. According to the information in the comments, the program will be able to choose which brand is better than the others or there will be a ranking list between the car brands. The project uses The Palavras Software, the sentiment dictionary,domain specific ontologies…
+[Stanford University NLP Project](http://nlp.stanford.edu/sentiment/)
+
+The project will consider people’s comments about the movies on the Internet. According to the information in the comments, the program will be able to make decision which movie is better than the others in a movie categories(horror,action,animation) or there will be a ranking list between the movies. 
 
 #Proposal
 
-I am planning to arrange how the people are thinking about the car brands on the Internet http://www.arabam.com by comparing the comments about cars. For instance, “Opel’s engines are weak” or “Porsche has strong body shell”.
+I am planning to arrange how the people are thinking about the movies on the Internet [beyazperde](http://www.beyazperde.com/) by comparing the comments about the movies.
+
+
+#Steps
+
+* Determine the tools and methods for the project.
+* Scraping data from the Internet.
+* Data Processing.
+* Doing first tests about the project.
+* Getting the results.
